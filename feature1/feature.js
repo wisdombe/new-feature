@@ -1,2 +1,1 @@
-console.log('feature1')
-console.log('commit2')
+console.log('feature2')

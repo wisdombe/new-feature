@@ -1,2 +1,2 @@
-console.log('commit1')
+console.log('feature1')
 console.log('commit2')
